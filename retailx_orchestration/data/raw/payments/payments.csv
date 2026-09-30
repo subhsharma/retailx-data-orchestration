@@ -1,0 +1,16 @@
+payment_id,order_id,payment_method,payment_status,amount
+5001,1001,UPI,Completed,55000
+5002,1002,Credit Card,Completed,3000
+5003,1003,UPI,Completed,8500
+5004,1004,Debit Card,Completed,2400
+5005,1005,Credit Card,Completed,2500
+5006,1006,UPI,Completed,10000
+5007,1007,Cash,Completed,600
+5008,1008,UPI,Completed,24000
+5009,1009,Credit Card,Completed,1800
+5010,1010,UPI,Completed,500
+5011,1011,Debit Card,Completed,55000
+5012,1012,UPI,Completed,5000
+5013,1013,Credit Card,Completed,10000
+5014,1014,UPI,Completed,4500
+5015,1015,Cash,Completed,17000
